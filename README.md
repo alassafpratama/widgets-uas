@@ -1,3 +1,7 @@
+#UAS LAB PBK
+NAMA : Al-Assaf Pratama.R
+NPM : 193510052
+
 # widgets2
 
 ## Project setup
